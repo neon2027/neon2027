@@ -4,6 +4,17 @@ I build web applications and automate business processes.
 Currently working on enterprise university systems, SaaS products, AI-powered tools, and anything that solves real-world problems with clean code.
 When I'm not writing Laravel code, you'll probably find me experimenting with machine learning, exploring new technologies, or turning random ideas into side project
 
+🚀 Open to:
+- Freelance Laravel & PHP projects
+- SaaS collaborations
+- Open-source contributions
+- AI and automation projects
+- Technical discussions with fellow developers (Consultation)
+
+📬 Have an interesting project, startup idea, or just want to talk tech?
+
+Feel free to reach out! I'm always happy to connect with developers, founders, and teams building cool things.
+
 <!--
 **neon2027/neon2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
