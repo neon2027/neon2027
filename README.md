@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Exequiel 👋
 
 <!--
 **neon2027/neon2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
